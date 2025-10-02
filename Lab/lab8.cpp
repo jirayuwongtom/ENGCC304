@@ -21,9 +21,8 @@ int main(){
         basesalary = 35000;
     }else if (position == 3){
         basesalary = 50000;
-    }else{
-        printf("Invalid Position!");
     }//end if
+
     if(year < 1){
         experiencebonus = 0;
     }else if (year <= 3){
@@ -33,6 +32,7 @@ int main(){
     }else{
         experiencebonus = basesalary * (0.20);
     }//end if
+    
     if(project > 5){
         specialbonus = basesalary * (0.05);
     }//end if
