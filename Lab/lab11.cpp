@@ -30,4 +30,4 @@ int main(){
     scanf("%d" , &number);
     checkArmstrongnum(number);
     return 0;
-}//end function
+}//end main function

@@ -12,7 +12,7 @@ struct Student {
 
 float averscore(S Student){
     return(Student.ScoreSub1 + Student.ScoreSub2 + Student.ScoreSub3 + Student.ScoreSub4 + Student.ScoreSub5) / 5.0;
-}//end float
+}//end function
 
 const char* Grade(float score){
     if(score >= 80 && score <= 100)
@@ -65,5 +65,5 @@ int main(){
         printf("\n");
     }//end for
     return 0;
-}//end function
+}//end main function
 

@@ -22,4 +22,4 @@ int main(){
         }//end for
     }//end if
     return 0;
-}//end function
+}//end main function

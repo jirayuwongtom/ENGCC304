@@ -26,4 +26,4 @@ int main(){
         printf("F");
     }//end if
     return 0;
-}//end function
+}//end main function

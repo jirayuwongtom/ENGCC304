@@ -20,4 +20,4 @@ int main(){
     ptr2 = &num2;
     swapNumbers(ptr1 , ptr2);
     printf("After swap (num1 & num2) : %d , %d", num1 , num2);
-}//end function
+}//end main function

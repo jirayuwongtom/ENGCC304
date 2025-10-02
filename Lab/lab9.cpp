@@ -25,18 +25,18 @@ int main() {
             prime = 0;
         }else{
             for (int j = 2; j * j <= num; j++){
-                if (num % j){
+                if (num % j == 0){
                     prime = 0;
                     break;
                 }//end if
             }//end for
         }//end if
         
-         if (prime == 0){
+         if (prime == 1){
             printf("%2d ", num);
         } else {
             printf(" # ");
         }//end if
     }//end for
     return 0;
-}//end function
+}//end main function

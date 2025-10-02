@@ -30,4 +30,4 @@ int main(){
         printf("Not pass");
     }//end if
     return 0;
-}//end function
+}//end main function

@@ -3,16 +3,17 @@
 int main() {
     char ID[11];
     int hours;
-    float salaryhours, sumSalary;
-    printf("Input the Employees ID(Max. 10 chars): ");
+    double salaryhours;
+    double sumSalary;
+    printf("Input the Employees ID(Max. 10 chars): \n");
     scanf("%10s", ID);
-    printf("Input the working hrs: ");
+    printf("Input the working hrs: \n");
     scanf("%d", &hours);
-    printf("Salary amount/hr: ");
+    printf("Salary amount/hr: \n");
     scanf("%f", &salaryhours);
     sumSalary = (hours * salaryhours);
     printf("Expected Output: \n");
     printf("Employees ID = %s\n", ID);
     printf("Salary = U$ %.2f\n", sumSalary);
     return 0;
-}//end function
+}//end main function

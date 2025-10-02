@@ -12,6 +12,7 @@ int isPrime(int num) {
     }//end for
     return 1;
 }//end function
+
 int main() {
     int n;
     printf("Enter N : ");
@@ -37,5 +38,5 @@ int main() {
     }//end for
     printf("\n");
     return 0;
-}//end function
+}//end main function
 
