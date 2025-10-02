@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="หน้า-1" id="_jkBjjb9VreRy6PENIAS">
+    <mxGraphModel dx="2852" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-3" target="aQTW8ZfmMQsvazfE2fsx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-5" target="aQTW8ZfmMQsvazfE2fsx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-5" value="กำหนดตัวแปร ID[11], hours, salaryhours, sumSalary" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-7" target="aQTW8ZfmMQsvazfE2fsx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-7" value="แสดงข้อความ Input the Employees ID" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-9" target="aQTW8ZfmMQsvazfE2fsx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-9" value="รับค่า ID" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-11" target="aQTW8ZfmMQsvazfE2fsx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-11" value="แสดงข้อความ Input the working hrs" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-13" target="aQTW8ZfmMQsvazfE2fsx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-13" value="รับค่า hours" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-15" target="aQTW8ZfmMQsvazfE2fsx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-15" value="แสดงข้อความ Salary amount/hr" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-17" target="aQTW8ZfmMQsvazfE2fsx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-17" value="รับค่า salaryhours" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-19" target="aQTW8ZfmMQsvazfE2fsx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-19" value="คำนวณ sumSalary = hours * salaryhours" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="640" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-21" target="aQTW8ZfmMQsvazfE2fsx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-21" value="แสดงข้อความ -----" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="720" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-23" target="aQTW8ZfmMQsvazfE2fsx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-23" value="แสดงข้อความ Expected Output" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="800" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-25" target="aQTW8ZfmMQsvazfE2fsx-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-25" value="แสดง Employees ID = ID" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="880" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-28" target="aQTW8ZfmMQsvazfE2fsx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-28" target="aQTW8ZfmMQsvazfE2fsx-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-28" value="sumSalary &gt;= 1000 ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="960" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-30" target="aQTW8ZfmMQsvazfE2fsx-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-30" value="total = (int)sumSalary" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1080" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-32" target="aQTW8ZfmMQsvazfE2fsx-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-32" value="thousand = total % 1000" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-34" target="aQTW8ZfmMQsvazfE2fsx-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-34" value="million = total / 1000" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-36" target="aQTW8ZfmMQsvazfE2fsx-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-36" value="แสดง Salary = U$ million,thousand.00" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1320" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-38" target="aQTW8ZfmMQsvazfE2fsx-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-38" value="แสดง Salary = U$ sumSalary (ทศนิยม 2 ตำแหน่ง)" style="shape=parallelogram;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1080" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-39" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-40" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-41" value="FALSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aQTW8ZfmMQsvazfE2fsx-43" target="aQTW8ZfmMQsvazfE2fsx-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQTW8ZfmMQsvazfE2fsx-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1400" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

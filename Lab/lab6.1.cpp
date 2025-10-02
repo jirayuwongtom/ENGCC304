@@ -30,6 +30,6 @@ int main(){
        printf("Result : Eleven");
     }else if (num == 12){
        printf("Result : Twelve");
-    }
+    }//end if
     return 0;
-}
+}//end main function
