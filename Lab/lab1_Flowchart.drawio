@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="หน้า-1" id="an59GFTp2hDEw4d2CD_F">
+    <mxGraphModel dx="983" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="Sc0rtkOJBBo3lbGTgeQa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="ประกาศตัวแปร Name[50], Age=0" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-24" target="Sc0rtkOJBBo3lbGTgeQa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-24" value="แสดงข้อความ &#39;Enter your name:&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-25" target="Sc0rtkOJBBo3lbGTgeQa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-25" value="รับค่า Name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-26" target="Sc0rtkOJBBo3lbGTgeQa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-26" value="แสดงข้อความ &#39;Enter your age:&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-27" target="Sc0rtkOJBBo3lbGTgeQa-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-27" value="รับค่า Age" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-28" target="Sc0rtkOJBBo3lbGTgeQa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-28" value="แสดงข้อความ &#39;- - - - - -&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-29" target="Sc0rtkOJBBo3lbGTgeQa-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-29" value="แสดงข้อความ &#39;Hello Name&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc0rtkOJBBo3lbGTgeQa-30" target="Sc0rtkOJBBo3lbGTgeQa-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-30" value="แสดงข้อความ &#39;Age = ...&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc0rtkOJBBo3lbGTgeQa-38" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
