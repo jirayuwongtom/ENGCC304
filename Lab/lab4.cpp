@@ -10,7 +10,7 @@ int main() {
     printf("Input the working hrs: \n");
     scanf("%d", &hours);
     printf("Salary amount/hr: \n");
-    scanf("%f", &salaryhours);
+    scanf("%lf", &salaryhours);
     sumSalary = (hours * salaryhours);
     printf("Expected Output: \n");
     printf("Employees ID = %s\n", ID);
