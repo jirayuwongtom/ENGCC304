@@ -6,10 +6,10 @@ int minnum(int array[] , int n){
     for(i = 1; i < n; i++){
         if(array[i] < min){
             min = array[i];
-        }
-    }
+        }//end if
+    }//end for
     return min;
-}
+}//end function
 
 int maxnum(int array[] , int n){
     int i;
@@ -17,10 +17,10 @@ int maxnum(int array[] , int n){
     for(i = 1; i < n; i++){
         if(array[i] > max){
             max = array[i];
-        }
-    }
+        }//end if
+    }//end for
     return max;
-}
+}//end function
 
 int main(){
     int n = 0;
@@ -31,19 +31,19 @@ int main(){
         n++;
         if (getchar() == '\n'){
             break;
-        }
-    }
+        }//end if
+    }//while
     printf("Index : ");
     for(i = 0; i < n; i++){
         printf(" %d", i);
-    }
+    }//end for
     printf("\n");
     printf("Array : ");
     for(i = 0; i < n; i++){
         printf(" %d", array[i]);
-    }   
+    }//end for
     printf("\n");
     printf("Min : %d\n", minnum(array , n));
     printf("Max : %d\n", maxnum(array , n));
     return 0;
-}
+}//end main function
