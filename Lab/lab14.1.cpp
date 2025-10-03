@@ -32,7 +32,7 @@ int main(){
         if (getchar() == '\n'){
             break;
         }//end if
-    }//while
+    }//end while
     printf("Index : ");
     for(i = 0; i < n; i++){
         printf(" %d", i);
