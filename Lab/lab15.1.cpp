@@ -8,7 +8,7 @@ int countWords(char *filename){
     if(file == 0){
         return 0;
     }//end if
-    for (count = 0; fscanf(file, "%s", word) == 1; count++);
+    for(count = 0; fscanf(file, "%s", word) == 1; count++);
     fclose(file);
     return count;
 }//end function
